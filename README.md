@@ -9,8 +9,7 @@ This is my setup for a minimal and aesthetic look for the windows terminal.
 1.  Go to: https://www.nerdfonts.com
 2.  Download your preferred NF (I use **MesloLGM Nerd Font**)
 3.  Extract & install
-4.  Set in Windows Terminal:
-    **Profiles → PowerShell → Appearance → Font face →`MesloLGM Nerd Font`**
+4.  Set in Windows Terminal: **Profiles → PowerShell → Appearance → Font face →`MesloLGM Nerd Font`**
     
 ## Install Winfetch
 
